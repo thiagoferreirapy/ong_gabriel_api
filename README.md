@@ -1,5 +1,5 @@
-# Projeto Site Intitucional Ong Gabriel - BackEnd
-
+# Projeto Site Intitucional Ong Gabriel - Projeto Inicial
+Aviso: Este projeto não é o principal que estamos desenvolvendo, aqui é apenas uma parte inicial do projeto!
 ### Introdução
 Este repositório contém o código-fonte e a documentação para o desenvolvimento do **back-end** do site institucional da **ONG Gabriel**. O objetivo principal da **ONG Gabriel** é **prevenir o suicídio e promover o bem-estar mental de jovens em situação de vulnerabilidade social**. Através de ações voltadas para o apoio psicológico, educação em saúde mental e criação de espaços seguros de acolhimento, a ONG busca impactar positivamente a vida dos jovens e suas comunidades, garantindo acesso a recursos e suporte emocional para aqueles que mais precisam.
 
